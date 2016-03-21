@@ -80,3 +80,21 @@ And make a symlink to it from /etc/nginx/sites-enabled with the command:
     git push
     ```
 
+### Modules 
+
+While connected and administrating your drupal website, you can go to the modules section and add new modules with the "add a new module" link
+
+For this project, we are interested in "ctools (chaos tools)" and "features"
+
+## Chaos tools (ctools)
+
+Just copy this link and past it in the "add a new module" form
+[https://ftp.drupal.org/files/projects/ctools-7.x-1.9.tar.gz](https://ftp.drupal.org/files/projects/ctools-7.x-1.9.tar.gz "ctools link to copy on the 'add a new module' form")
+
+Then on the "modules" admin page, go down the list and check "Chaos tools" and "Page manager"
+
+## Features
+Just copy this link and past it in the "add a new module" form
+[https://ftp.drupal.org/files/projects/features-7.x-2.7.tar.gz](https://ftp.drupal.org/files/projects/features-7.x-2.7.tar.gz "features link to copy on the 'add a new module' form")
+
+Then on the "modules" admin page, go down the list and check "features"
