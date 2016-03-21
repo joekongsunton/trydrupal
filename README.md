@@ -1,7 +1,7 @@
 # trydrupal
 Small blog to practice and learn Drupal, including Chaos tools, Features etc.
 
-### Base Install
+## Base Install
 
 1. Create repo on github. Set the gitignore for drupal
 2. Clone repo locally, edit the README.md to write thoses lines
@@ -80,7 +80,7 @@ And make a symlink to it from /etc/nginx/sites-enabled with the command:
     git push
     ```
 
-### Modules 
+## Modules 
 
 While connected and administrating your drupal website, you can go to the modules section and add new modules with the "add a new module" link
 
