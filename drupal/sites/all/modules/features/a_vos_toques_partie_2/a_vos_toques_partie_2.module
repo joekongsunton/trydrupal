@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the A vos toques - partie 2 feature.
+ */
+
+include_once 'a_vos_toques_partie_2.features.inc';
