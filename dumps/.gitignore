@@ -1,0 +1,3 @@
+# Ignore all my local backups in "backups/". 
+# the latest dump "latest.sql" of the db "trydrupal" is actually staged for versioning, it should be enough (is it a bad idea?) 
+backups/
